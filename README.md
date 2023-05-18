@@ -12,3 +12,6 @@ And there's more to come !
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandra-petit-dev/) </br>
 Or feel free to send me an email ⬇️
 - petit.alexandra177@gmail.com
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alexpe77&theme=midnight-purple&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexpe77&show_icons=true&theme=transparent)
