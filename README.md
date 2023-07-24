@@ -4,7 +4,7 @@ I’m currently learning web development **@Becode** Belgium
 
 ## Technical Skills 🛠
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,php,sql,bash,git,figma,)](https://skillicons.dev) </br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,php,mysql,bash,git,figma,)](https://skillicons.dev) </br>
 And there's more to come !
 
 ##  How to reach me 📫
