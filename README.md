@@ -15,7 +15,3 @@ And there's more to come !
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandra-petit-dev/) </br>
 Or feel free to send me an email ⬇️
 - petit.alexandra177@gmail.com
-
-[![Most used languages](https://img.shields.io/github/languages/top/Alexpe77/README.md)](https://github.com/Alexpe77/README.md)
-[![Langages les plus utilisés](https://img.shields.io/github/languages/top/Alexpe77/Alexpe77/README.md)](https://github.com/Alexpe77/Alexpe77/README.md)
-
