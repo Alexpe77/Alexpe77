@@ -17,3 +17,5 @@ Or feel free to send me an email ⬇️
 - petit.alexandra177@gmail.com
 
 [![Most used languages](https://img.shields.io/github/languages/top/Alexpe77/README.md)](https://github.com/Alexpe77/README.md)
+[![Langages les plus utilisés](https://img.shields.io/github/languages/top/Alexpe77/Alexpe77/README.md)](https://github.com/Alexpe77/Alexpe77/README.md)
+
