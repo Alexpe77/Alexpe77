@@ -16,4 +16,4 @@ And there's more to come !
 Or feel free to send me an email ⬇️
 - petit.alexandra177@gmail.com
 
-[![Most used languages](https://img.shields.io/github/languages/top/Alexpe77/README.md)](https://github.com/votre-nom-utilisateur/votre-repo)
+[![Most used languages](https://img.shields.io/github/languages/top/Alexpe77/README.md)](https://github.com/Alexpe77/README.md)
