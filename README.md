@@ -2,6 +2,7 @@
 
 I’m currently learning web development **@Becode** Belgium. </br>
 Much of our training consists on hands-on projects and we work both in group and alone. </br>
+You will therefore see on my profile both repos devoted to practical exercises and concrete projects. </br>
 Below you can see the technologies that I have already learned so far and for now I am learning different frameworks. </br>
 
 ## Technical Skills 🛠
