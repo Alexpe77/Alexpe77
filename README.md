@@ -1,10 +1,12 @@
 #  Hi, I’m Alex 👋
 
 I’m currently learning web development **@Becode** Belgium
+Much of our training consists on hands-on projects and we work both in group and alone.
+Below you can see the technologies that I have already learned so far and for now I am learning different frameworks.
 
 ## Technical Skills 🛠
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,php,mysql,tailwind,bash,git,github,figma,)](https://skillicons.dev) </br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,php,mysql,tailwind,bash,git,github,figma,postman)](https://skillicons.dev) </br>
 And there's more to come !
 
 ##  How to reach me 📫
@@ -12,6 +14,3 @@ And there's more to come !
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandra-petit-dev/) </br>
 Or feel free to send me an email ⬇️
 - petit.alexandra177@gmail.com
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alexpe77&theme=midnight-purple&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexpe77&show_icons=true&theme=transparent)
