@@ -7,7 +7,7 @@ Below you can see the technologies that I have already learned so far and for no
 
 ## Technical Skills 🛠
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,php,mysql,tailwind,bash,git,github,figma,postman)](https://skillicons.dev) </br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,php,mysql,laravel,tailwind,bash,git,github,figma,postman)](https://skillicons.dev) </br>
 And there's more to come !
 
 ##  How to reach me 📫
