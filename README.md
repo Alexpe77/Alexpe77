@@ -2,7 +2,7 @@
 
 I recently got my degree in web development @**BeCode** Belgium.</br>
 You can see that there's "no commit" for a 3 months period, it's beacause i was in internship, but don't worry i worked a lot 😄 ! </br>
-Much of our training consists on hands-on projects and we've worked both in group and alone. </br>
+Much of our training at BeCode consists on hands-on projects and we've worked both in group and alone. </br>
 You will therefore see on my profile both repos devoted to practical exercises and concrete projects. </br>
 Below you can see the technologies that I have already learned so far.</br>
 I'm currently improving my skills in **Symfony** 🚀 </br>
