@@ -1,6 +1,8 @@
 #  Hi, I’m Alex 👋
 
-I recently got my degree in web development @**BeCode** Belgium.</br>
+I got my degree in web development @**BeCode** Belgium early 2024.</br>
+Right after that I worked as a software developer for an industry.</br>
+Now I focus myself on personnal projects.</br>
 
 Much of our training at BeCode consists on hands-on projects and we've worked both in group and alone. </br>
 You will therefore see on my profile both repos devoted to practical exercises and concrete projects. </br>
